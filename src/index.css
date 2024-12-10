@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background-image: url('https://media.istockphoto.com/id/1440826435/photo/polygonal-background-with-dots-and-lines-network-connection-structure-science-and-technology.jpg?s=612x612&w=0&k=20&c=EB2XaW4YdPFz5tXjcq8CouNZ-HzZ4ebddJbDmnhbUOg=');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
